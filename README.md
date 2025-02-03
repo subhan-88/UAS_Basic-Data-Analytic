@@ -1,7 +1,7 @@
-# Credit Scoring Analysis - Machine Learning Project
+# Spotify Popularity Prediction - Machine Learning Project
 
 ## Project Overview
-This project focuses on using machine learning techniques to build a classification model for credit scoring. The model predicts whether a loan application will be approved or rejected based on the applicant's financial and demographic data.
+This project utilizes machine learning techniques to predict the popularity of songs on Spotify. The classification model aims to determine whether a song will be popular based on its audio features, such as danceability, energy, and valence.
 
 ## Directory Structure
 - `data/`: Contains the dataset and preprocessed data.
@@ -13,5 +13,7 @@ This project focuses on using machine learning techniques to build a classificat
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/ml-classification-project.git
-   cd ml-classification-project
+   git clone https://github.com/username/spotify-popularity-prediction.git
+   cd spotify-popularity-prediction
+   ```
+
